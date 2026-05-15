@@ -1,0 +1,9 @@
+{
+  "name": "OBIA — IOAI Bolivia 2026",
+  "short_name": "OBIA",
+  "description": "Educational AI Assistant for the IOAI Bolivia 2026 Selection Contest",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#338dfc"
+}

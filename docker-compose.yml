@@ -32,7 +32,7 @@ services:
     build:
       context: ./frontend
       args:
-        NEXT_PUBLIC_API_URL: http://192.168.0.14:8001
+        NEXT_PUBLIC_API_URL: https://api.penguino.space
     ports:
       - "3000:3000"
     depends_on:
